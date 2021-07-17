@@ -1,0 +1,15 @@
+.main-container{
+    width:50%;
+    /* background-color: aqua; */
+    height: 100%;
+    
+}
+
+.heading{
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.problem{
+    margin-bottom: 20px;
+}
